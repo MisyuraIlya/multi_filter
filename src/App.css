@@ -1,0 +1,14 @@
+.App{
+    display: flex;
+}
+.category{
+    width: 50%;
+}
+.product{
+    width: 50%;
+}
+.product_card{
+    border: 1px solid teal;
+    width: 150px;
+    padding-left: 10px;
+}
